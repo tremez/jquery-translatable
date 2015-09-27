@@ -1,14 +1,14 @@
 {
-  "name": "jquery-tabLoop",
-  "description": "Plugin to better handle Tab Key",
+  "name": "jquery-translatable",
+  "description": "Plugin to translate elements using Pomo",
   "main": [
-    "js/jquery-tabLoop.js"
+    "js/jquery-translatable.js"
   ],
   "keywords": [
-    "tab",
-    "loop",
-    "tabLoop",
-    "tab"
+    "translatable",
+    "translate",
+    "gettext",
+    "pomo"
   ],
   "authors": [
     "Taras Remez <taras.remez@telix.com.ua>"
@@ -23,10 +23,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/tremez/jquery-tabLoop.git"
+    "url": "git://github.com/tremez/jquery-translatable.git"
   },
   "version": "0.0.1",
-  "homepage": "https://github.com/tremez/jquery-tabLoop",
+  "homepage": "https://github.com/tremez/jquery-translatable.git",
   "moduleType": [
     "globals"
   ]
